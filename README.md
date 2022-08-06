@@ -1,5 +1,5 @@
 # fonte
-Uma fonte de alimentação feita a partir de uma fonte ATX, com uma saída regulável.
+A fonte usa como saídas as próprias saídas da fonte, que são respectivamente de 3,3V, 5V, 12V e -12V. A parte regulável foi feita a partir de um fio em paralelo conctando a saída de 12V a um circuito com o regulador de tensão LM317 e sendo ajustável por um potenciômetro.
 
 Modelo 3D idealizado:
 <div align="center">
